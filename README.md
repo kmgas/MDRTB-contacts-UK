@@ -9,3 +9,9 @@ This is an open access site for all interested UK MDR TB services to gain access
 The MDR TB contacts registry can be found here https://mdrtb-contacts.lshtm.ac.uk/
 
 You will be able to access this once your site is live and you've received the 10 minute training session
+
+Please watch the welcome video before accessing the documents
+
+Many thanks for your interest and we look forward to working with you
+
+Dave Moore & Kate Gaskell

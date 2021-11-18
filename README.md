@@ -10,7 +10,7 @@ The MDR TB contacts registry can be found here https://mdrtb-contacts.lshtm.ac.u
 
 You will be able to access this once your site is live and you've received the 10 minute training session
 
-Please watch the welcome video before accessing the documents
+Please watch the welcome video before accessing the documents, you can find this here (https://bit.ly/3kR55ep)
 
 Many thanks for your interest and we look forward to working with you
 

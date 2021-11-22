@@ -1,4 +1,5 @@
 ## MDRTB-contacts-UK
+    ![Tux, the Linux mascot](img/lshtm_logo.png)
 
 This is a resource for the MDR TB contacts registry UK study
 

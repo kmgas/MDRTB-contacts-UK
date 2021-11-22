@@ -15,6 +15,7 @@
 ## Links. <a name="links"></a>
 [MDR TB contacts registry](https://mdrtb-contacts.lshtm.ac.uk/)  
 [Protocol](/protocol/MDRTBcontactsRegistry_Protocol.pdf)
+[Consent Forms] (/consentandPIS/)
 
 
 

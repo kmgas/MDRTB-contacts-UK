@@ -10,7 +10,7 @@
 
 ### Links
 [MDR TB contacts registry](https://mdrtb-contacts.lshtm.ac.uk/)  
-[Protocol](https://github.com/kmgas/MDRTB-contacts-UK/blob/main/protocol/MDRTBcontactsRegistry_Protocol%20-%20v6.pdf)
+[Protocol](https://kmgas.github.io/MDRTB-contacts-UK/blob/main/protocol/MDRTBcontactsRegistry_Protocol%20-%20v6.pdf)
 
 
 

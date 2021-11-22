@@ -1,8 +1,6 @@
 <img align="right" src="img/lshtm_logo.jpeg">
 <br /><br />
 
-## MDRTB-contacts-UK
-
 
 This is a resource for the MDR TB contacts registry UK study
 

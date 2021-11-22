@@ -8,7 +8,11 @@
 
 ## MDRTB contacts UK 
 
-This is a resource for the MDR TB contacts registry UK study
+### Links
+[MDR TB contacts registry](https://mdrtb-contacts.lshtm.ac.uk/)  
+[Protocol](https://github.com/kmgas/MDRTB-contacts-UK/blob/main/protocol/MDRTBcontactsRegistry_Protocol%20-%20v6.pdf)
+
+
 
 It includes all the training documents and resources you will need to set up a study site
 
@@ -16,7 +20,6 @@ It is an open access site for all interested UK MDR TB services to access the tr
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647248714?h=fb0c53afa1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
-The MDR TB contacts registry can be found here https://mdrtb-contacts.lshtm.ac.uk/
 
 You will be able to access this once your site is live and you've received the 10 minute training session
 

@@ -14,7 +14,7 @@
 
 ## Links. <a name="links"></a>
 [MDR TB contacts registry](https://mdrtb-contacts.lshtm.ac.uk/)  
-[Protocol](/protocol/MDRTBcontactsRegistry_Protocol.pdf)
+[Protocol](/protocol/MDRTBcontactsRegistry_Protocol.pdf)  
 [Consent Forms] (/consentandPIS/)
 
 
@@ -48,7 +48,7 @@ To join the study you will need the following
      * A local PI (a lead TB clinician on site)
      * A local point of contact for the LSHTM sponsor. If the NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU. If these do not exist this can be a study sponsor, study manager, study coordinator or clinical research scientist.
     
-     * Amend the OID to reference your site only
+    * Amend the OID to reference your site only
     * Amend the [IRAS schedule of events](/HRA_approval_documents/IRAS_scheduleofevents.xls) to ensure it is site specific. You can find this in the folder named HRA approval documents for each site.
     * Complete a delegation log (after training has been completed)
     * Submit all these forms to your local RDO and make sure you copy us in at david.moore@lshtm.ac.uk and kate.gaskell@lshtm.ac.uk

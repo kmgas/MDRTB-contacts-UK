@@ -14,6 +14,7 @@
 
 
 
+
 It includes all the training documents and resources you will need to set up a study site
 
 It is an open access site for all interested UK MDR TB services to access the training resources and decide whether to participate

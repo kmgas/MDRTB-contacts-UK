@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## MDRTB-contacts-UK
 
-You can use the [editor on GitHub](https://github.com/kmgas/MDRTB-contacts-UK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a resource for the MDR TB contacts registry UK study
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It includes all the training documents and resources you will need to set up a study site
 
-### Markdown
+It is an open access site for all interested UK MDR TB services to access the training resources and decide whether to participate
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The MDR TB contacts registry can be found here https://mdrtb-contacts.lshtm.ac.uk/
 
-```markdown
-Syntax highlighted code block
+You will be able to access this once your site is live and you've received the 10 minute training session
 
-# Header 1
-## Header 2
-### Header 3
+Please watch the welcome video before accessing the documents, you can find this here (https://bit.ly/3kR55ep)
 
-- Bulleted
-- List
+Many thanks for your interest and we look forward to working with you
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmgas/MDRTB-contacts-UK/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Dave Moore & Kate Gaskell

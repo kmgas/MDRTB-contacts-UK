@@ -105,4 +105,34 @@ We are applying for approval for sites in Wales and Scotland.
 ## How to guide <a name="howtoguide"></a>
 
 
+MDRTB contact registry  
+
+Registration of a new MDRTB case or a contact in DHIS2  
+
+Please make sure   
+* Each time you open the website you enter your own personal login data.  
+* Set up two factor authentication on your first log in. The study team will take you through this.  
+* Each time you close the browser window, you log out instead of closing the page or browser.  
+* Failure to do so is a security risk.
+  
+An Internet connection is required.
+  
+  
+DHIS2  
+
+Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.uk/  
+
+<img align="left" src="img/dhis2_login1.jpeg">
+Enter your username, password and select ‘login using two-factor authentication’. You will need the
+authenticator application on your phone to provide the two-factor authentication.  
+
+Use your mobile NHS authenticator to generate a login code.
+
+<img align="left" src="img/google_auth.jpeg">
+  
+If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
+
+If you are not used to using this, please contact us and we will explain during your training session. 
+  
+Sign in
 

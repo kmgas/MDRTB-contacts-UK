@@ -199,14 +199,79 @@ The index patient section has been developed in line with the current WHO DHIS2 
 <img align="left" src="img/tb_case_surv.jpeg">  
   
   
-  The TB clinic name is the name of the treating health centre.
+    The TB clinic name is the name of the treating health centre.
   
   
-The NTBS number is the unique number given to the TB patient by the TB programme.
+    The NTBS number is the unique number given to the TB patient by the TB programme.
     
-    Do not leave any answers blank. If you do, you will not be able to proceed to the next step.  
+    Do not leave any answers blank. 
+    If you do, you will not be able to proceed to the next step.  
      
-    If the index patient’s details are similar to another previously entered case, a blue box will appear warning you about a possible duplication. Please enter all patient details and then check if the possible duplicate is an exact match by clicking on "view candidate".
 
 
- 
+  
+If the index patient’s details are similar to another previously entered case, a blue box will appear warning you about a possible duplication. Please enter all patient details and then check if the possible duplicate is an exact match by clicking on "view candidate".
+
+<img align="left" src="img/tb_case_surv2.jpeg">   
+
+    There should be no duplicate MDRTB index patients.   
+    If there is an exact match, please recheck the patient details. 
+    
+
+If a patient experiences a 2nd episode of MDRTB this can be recorded as another episode under the same patient  
+
+<img align="left" src="img/tb_case_surv3.jpeg">  
+
+
+Once you have completed the registration form correctly for the MDR TB index patient, choose confirm and continue.   
+
+Once you have entered all personal data, confirm it is correct then select confirm and continue.
+When the confirmation button is pressed, the following MDRTB index patient home screen will appear:  
+
+<img align="left" src="img/tb_index_home.jpeg">    
+
+On the home screen you will see:   
+  
+  
+* the programme the patient is enrolled in   
+* their profile   
+* their relationships with other participants  
+* the indicators their data will populate for display on dashboards   
+* their data entry forms in a timeline
+
+##Index case data   
+
+For initial registration there are four forms to complete for each index:  
+
+1.	Baseline data  
+2.	Treatment  
+3.	Laboratory results  
+4.	Drug susceptibility test results  
+
+The following list includes all the data required for the index case and is taken from our study materials and the images are screenshots of all the variables you need to include.  
+
+
+**	MDR tuberculosis notification date
+**	Index case identification code
+**	Total number of contacts in the household
+**	Date of birth
+*●*	Age
+**	Sex
+**	Address
+**	Contact's telephone number
+●	District of residence
+●	MDR Treatment start date
+●	Sputum test result and date of result 
+●	Degree of sputum smear positivity
+●	TB culture result
+●	Xpert result
+●	Drug resistance
+●	Chest radiograph changes 
+●	Social risk factors 
+●	Previous Treatment courses
+  
+To enter one of the four forms, select the plus sign on the right-hand side of the timeline data entry section, select the form you want to load into the timeline, then ensure the box in the timeline is selected (turns yellow) so you can answer the questions within this section.   
+  
+  
+First complete the baseline data entry form. When you select the box, the following screen appears:  
+

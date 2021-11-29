@@ -52,14 +52,14 @@ To join the study you will need the following
 
 1. Local ethical approval
   * To do this you need to complete:
-    * The organisation information document_V1 [OID](/HRA_approval_documents/MDRTBcontactsregistry_Organisation_Information_Document.docx) IRAS form. You can find this in the folder named HRA approval documents for each site.
+    * The [organisation information document_V1 OID](/HRA_approval_documents/MDRTBcontactsregistry_Organisation_Information_Document.docx) IRAS form. You can find this in the folder named HRA approval documents for each site.
    	 	
    	   	* 	To complete this you need signatures from:
       	* 	A local PI (a lead TB clinician on site)
        	* 	A local point of contact for the LSHTM sponsor. If the NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU. If these do not exist this can be a study sponsor, study manager, study coordinator or clinical research scientist.
     
     * Amend the OID to reference your site only
-    * Amend the [IRAS schedule of events](/HRA_approval_documents/IRAS_scheduleofevents.xls) to ensure it is site specific. You can find this in the folder named HRA approval documents for each site.
+    * Amend the [IRAS schedule of events](/HRA_approval_documents/IRAS_scheduleofevents.xls) to ensure it is site specific. 
     * Complete a delegation log [Delegation Log](/HRA_approval_documents/MDRTB_CONTACTS_REGISTRY_DELEGATION_LOG.docx) (after training has been completed)
     * Submit all these forms to your local R&D and make sure you copy us in at david.moore@lshtm.ac.uk and kate.gaskell@lshtm.ac.uk
     

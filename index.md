@@ -11,7 +11,8 @@
 [Introduction](#intro)   
 [Getting Started](#getstarted)  
 [Data Protection](#dataprotection)  
-[Sites involved in this study](#sitesinvolved) 
+[Sites involved in this study](#sitesinvolved)  
+[How to guide](#howtoguide)
  
 
 
@@ -22,8 +23,8 @@
 [How to guides](/howtoguides)   
 [Ethics Approvals](/ethics)  
 [Consent Forms](/consentandPIS)  
-[Consent Form](/consentandPIS/Consent_MDRTBcontactsRegistry.pdf)  
-[PIS Form](/consentandPIS/PIS_MDRTBcontactsRegistry.pdf)  
+[Data Protection Impact Assessment](//DPIA/dpia.pdf)  
+[HRA Approvals](/HRA_approval_documents)  
 
 
 ## Introduction <a name="intro"></a>
@@ -44,7 +45,6 @@ Dave Moore & Kate Gaskell
 
 ## Getting started <a name="getstarted"></a>
 
-[vimeo https://player.vimeo.com/video/647248714?h=fb0c53afa1]  
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/647248714?h=fb0c53afa1" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
@@ -52,10 +52,11 @@ To join the study you will need the following
 
 1. Local ethical approval
   * To do this you need to complete:
-    * The organisation information document_V1 ([OID])(/HRA_approval_documents/MDRTBcontactsregistry_Organisation_Information_Document.docx) IRAS form. You can find this in the folder named HRA approval documents for each site.
-   	 	* 	To complete this you need signatures from:
-    	* 	A local PI (a lead TB clinician on site)
-     	* 	A local point of contact for the LSHTM sponsor. If the NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU. If these do not exist this can be a study sponsor, study manager, study coordinator or clinical research scientist.
+    * The organisation information document_V1 [OID](/HRA_approval_documents/MDRTBcontactsregistry_Organisation_Information_Document.docx) IRAS form. You can find this in the folder named HRA approval documents for each site.
+   	 	
+   	   	* 	To complete this you need signatures from:
+      	* 	A local PI (a lead TB clinician on site)
+       	* 	A local point of contact for the LSHTM sponsor. If the NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU. If these do not exist this can be a study sponsor, study manager, study coordinator or clinical research scientist.
     
     * Amend the OID to reference your site only
     * Amend the [IRAS schedule of events](/HRA_approval_documents/IRAS_scheduleofevents.xls) to ensure it is site specific. You can find this in the folder named HRA approval documents for each site.
@@ -66,12 +67,15 @@ To join the study you will need the following
 
 3. Once you have submitted these forms to your R&D and accessed the training documents, we will arrange training to access the contact registry at https://mdrtb-contacts.lshtm.ac.uk/
 
+
 ## Data Protection <a name="dataprotection"></a>
 
-We have performed a Data Protection Impact Assessment at LSHTM which you can access [here](/DPIA/dpia.pdf). The LSHTM privacy notice which you can access [here](https://www.lshtm.ac.uk/files/research-participant-privacy-notice.pdf).  
+We have performed a Data Protection Impact Assessment at LSHTM which you can access [here](/DPIA/dpia.pdf).   
+The LSHTM privacy notice which you can access [here](https://www.lshtm.ac.uk/files/research-participant-privacy-notice.pdf).  
 
 
-We have HRA approval for all MDR TB commissioned centres in England who have shown interest in participating. We are applying for approval for sites in Wales and Scotland.
+We have HRA approval for all MDR TB commissioned centres in England who have shown interest in participating.   
+We are applying for approval for sites in Wales and Scotland.
 
    
 ## Sites involved in this study <a name="sitesinvolved"></a>  
@@ -97,5 +101,8 @@ We have HRA approval for all MDR TB commissioned centres in England who have sho
 * St George's Hospital London
 * The Newcastle upon Tyne Hospitals NHS FT
 * Whittington Health North Central London TB service London
+
+## How to guide <a name="howtoguide"></a>
+
 
 

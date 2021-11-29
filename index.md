@@ -54,7 +54,7 @@ To join the study you will need the following
   * To do this you need to complete:
     * The [organisation information document_V1 OID](/HRA_approval_documents/MDRTBcontactsregistry_Organisation_Information_Document.docx) IRAS form. You can find this in the folder named HRA approval documents for each site.
    	 	
-   	   	* 	To complete this you need signatures from:
+   	   	To complete this you need signatures from:
       	* 	A local PI (a lead TB clinician on site)
        	* 	A local point of contact for the LSHTM sponsor. If the NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU. If these do not exist this can be a study sponsor, study manager, study coordinator or clinical research scientist.
     
@@ -167,9 +167,6 @@ The "tracker capture application" will appear on your screen:
 
   
 On the left hand side of the thumbnail section the "organisation" hierarchy will be displayed.  
-    
-  
-    
 
 This is the list of countries, regions, districts and sub-districts within the application.    
   
@@ -204,11 +201,9 @@ The index patient section has been developed in line with the current WHO DHIS2 
   
     The TB clinic name is the name of the treating health centre.
   
-  
     The NTBS number is the unique number given to the TB patient by the TB programme.
     
-    Do not leave any answers blank. 
-    If you do, you will not be able to proceed to the next step.  
+    Do not leave any answers blank. If you do, you will not be able to proceed to the next step.  
      
 
 
@@ -217,8 +212,8 @@ If the index patient’s details are similar to another previously entered case,
 
 <img style="float: right;" src="img/tb_case_surv2.jpeg">   
 
-    There should be no duplicate MDRTB index patients.   
-    If there is an exact match, please recheck the patient details. 
+    There should be no duplicate MDRTB index patients   
+    If there is an exact match, please recheck the patient details 
     
 
 If a patient experiences a 2nd episode of MDRTB this can be recorded as another episode under the same patient  
@@ -276,5 +271,185 @@ The following list includes all the data required for the index case and is take
 To enter one of the four forms, select the plus sign on the right-hand side of the timeline data entry section, select the form you want to load into the timeline, then ensure the box in the timeline is selected (turns yellow) so you can answer the questions within this section.   
   
   
-First complete the baseline data entry form. When you select the box, the following screen appears:  
+First complete the baseline data entry form. When you select the box, the following screen appears:   
+
+<img style="float: right;" src="img/timelinedataentry.jpeg">   
+
+	Please answer all questions. You will not be able to progress to the next step unless you do so
+
+	Once all sections are complete, select "complete"
+
+	This generates a TB case surveillance report  
+	
+<img style="float: right;" src="img/tb_case_report.jpeg"> 
+
+A box will appear asking if the form is complete. Choose complete and close  
+ 
+The sections on laboratory data, treatment outcome, and drug sensitivity testing can be completed at a later date. None of these are mandatory.  
+
+  
+The following screen will appear with the newly entered patient in the list:  
+
+<img style="float: right;" src="img/ic_list.jpeg">  
+
+To add the remaining forms (Laboratory forms, treatment and DST) to this index select your patient.  
+Repeat the process of adding forms within the "timeline data entry" by selecting the plus sign "+".
+This screen will appear. 
+Here you will be able to add lab, treatment, and DST forms.  
+
+<img style="float: right;" src="img/add_form_ic.jpeg">  
+
+  
+  Laboratory forms:
+<img style="float: right;" src="img/lab_form.jpeg">  
+
+  Treatment forms:
+<img style="float: right;" src="img/treatment_form.jpeg">   
+  
+
+You can return to this and add forms later, once results are available  
+
+
+###Contact case registration
+
+Once you have registered an index patient, return to the previous screen by selecting the back button at the top left of the screen.  
+You can now register the first contact for this index.  
+
+* Ensure you are in the correct local borough from the list on the left  
+* Select the Contact tracing Programme from the drop-down list as shown here  
+* Select register  
+
+<img style="float: right;" src="img/contact_reg.jpeg">  
+
+Complete this registration form, the form will only save once complete.  
+The contact participant's study ID will auto-generate.  
+
+<img style="float: right;" src="img/contact_enroll.jpeg">  
+
+Information that needs to be entered:  
+  
+●	Patient's last name  
+●	Patient's first name  
+●	Date of birth (Age)  
+●	Sex  
+●	Home district   
+●	Contact phone number  
+●	Location of residence (type the local authority into the search bar)  
+●	Location of contact with index case  
+●	Relationship to index case  
+●	Proximity to index case  
+  
+Select save  
+  
+The contacts home page will open with a timeline for follow up  
+  
+<img style="float: right;" src="img/contact_home_page.jpeg">  
+
+On the home screen you will see:  
+
+●	program registration details  
+●	the contact profile  
+●	their relationships with other participants  
+●	the indicators their data will populate for display on dashboards   
+●	their data entry forms in a timeline  
+
+  
+  ###Timeline Data entry  
+
+Within the timeline data entry, you should see the data capture forms for each time point Month 0 (M0), Month 3 (M3), Month 6 (M6), Month 12 (M12), Month 18 (M18) , and Month 24 (M24).   
+  
+If you cannot see them, they need to be added.   
+To add a data capture form, select the + button to the right of the timeline data entry box.   
+Select “Add New” 
+First select screening visit M0  
+To add additional timepoint reviews you can select the “additional review” form.  
+  
+<img style="float: right;" src="img/visits.jpeg">   
+
+A screen opens allowing you to set the "assessment date" and the "organisational unit" (meaning the district in which the participant lives).  
+Select next.  
+You will need to do this for each data entry form you add.  
+
+ ###Baseline visit M0  
+ 
+   
+Information to be entered:  
+
+●	Are there any known risk factors?   
+●	Previous TB treatment  
+●	Previous TB preventive treatment  
+●	Duration of exposure (to a symptomatic index) in weeks  
+●	MDRTB treatment initiation date of the index  
+
+<img style="float: right;" src="img/M0.jpeg">  
+
+Select all radio buttons relevant for the current contact  
+
+<img style="float: right;" src="img/M0_data.jpeg"> 
+
+	Enter the number of weeks of exposure to a symptomatic index   
+	
+	Enter Sputum samples and Chest X-ray results once available.  
+	
+Remind your contact that they will be screened for 2 years, give them a guide on TB symptoms and how to seek help, and give them a card with contact information.  
+  
+When the form is complete, select complete.  
+
+Add forms M3, M6, M12, M18 and M24 to the contact's dashboard. The dates on these forms are automatically filled in, but you can change them to a date you agree with the contact. You can add additional review forms for reviews at other time points, for example a remote review in paediatrics at 9 months.  
+
+  ###Follow up visits  
+  
+When you review this contact at the next visit, make sure to return to the same contact to enter the next data capture form (M3, M6 etc). To do this you can find a list of contact participant IDs under the borough within the Contact tracing program. Ensure you know which participant ID is linked to each contact.  
+  
+Once you have entered the index case and the contact case it is important to link them by entering a “relationship”.  
+  
+
+  ###Adding a relationship  
+
+<img style="float: right;" src="img/relationship.jpeg">
+<img style="float: left;" src="img/relationship_add.jpeg">  
+
+Within the relationship box select the "add" button. A window will open showing a box asking you to add a relationship.   
+<img style="float: right;" src="img/relationship_add2.jpeg">  
+
+	From the drop-down menu, select the contact index case   
+	A new window will open with your contact and the list of index patients already entered in the system  
+	
+<img style="float: right;" src="img/relationship_add3.jpeg">   
+
+ 	Here you can see the details of your contact participant on the left of the screen  
+ 	On the right you can search for index TB patients using demographic data  
+ 	Select the index MDRTB patient of your contact participant   
+ 	
+ The following screen will appear. Select "save" if you are happy that this is the correct index patient.  
+ 
+ <img style="float: right;" src="img/relationship_add4.jpeg">  
+
+You should now see a link within the relationship box on the main page of your contacts.  
+
+Once you have completed all the fields, you will find a box at the bottom left of the screen (scroll down) that says "complete" in yellow. Select this option to complete data entry and save the data. If the data is incomplete, you will see a warning message and you will have to go back and complete the empty fields.  
+  
+Before leaving the contact, make sure you know the date of your next M3 or M6 follow-up and plan with them where and how it will be (by phone/home person/other location).   
+
+
+ 
+
+
+
+	
+
+
+
+ 
+
+
+
+
+
+
+	
+	
+
+
+
 

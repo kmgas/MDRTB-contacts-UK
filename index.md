@@ -251,24 +251,24 @@ For initial registration there are four forms to complete for each index:
 The following list includes all the data required for the index case and is taken from our study materials and the images are screenshots of all the variables you need to include.  
 
 
-**	MDR tuberculosis notification date
-**	Index case identification code
-**	Total number of contacts in the household
-**	Date of birth
-*●*	Age
-**	Sex
-**	Address
-**	Contact's telephone number
-●	District of residence
-●	MDR Treatment start date
-●	Sputum test result and date of result 
-●	Degree of sputum smear positivity
-●	TB culture result
-●	Xpert result
-●	Drug resistance
-●	Chest radiograph changes 
-●	Social risk factors 
-●	Previous Treatment courses
+●	MDR tuberculosis notification date  
+●	Index case identification code    
+●	Total number of contacts in the household    
+●	Date of birth  
+●	Age  
+●	Sex  
+●	Address  
+●	Contact's telephone number  
+●	District of residence  
+●	MDR Treatment start date  
+●	Sputum test result and date of result   
+●	Degree of sputum smear positivity  
+●	TB culture result  
+●	Xpert result  
+●	Drug resistance  
+●	Chest radiograph changes  
+●	Social risk factors   
+●	Previous Treatment courses  
   
 To enter one of the four forms, select the plus sign on the right-hand side of the timeline data entry section, select the form you want to load into the timeline, then ensure the box in the timeline is selected (turns yellow) so you can answer the questions within this section.   
   

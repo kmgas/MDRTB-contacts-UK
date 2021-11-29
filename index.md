@@ -17,7 +17,7 @@
 
 
 
-## Links. <a name="links"></a>
+## Links <a name="links"></a>
 [MDR TB contacts registry](https://mdrtb-contacts.lshtm.ac.uk/)  
 [Protocol](/protocol/MDRTBcontactsRegistry_Protocol.pdf)   
 [How to guides](/howtoguides)   
@@ -105,7 +105,7 @@ We are applying for approval for sites in Wales and Scotland.
 ## How to guide <a name="howtoguide"></a>
 
 
-MDRTB contact registry  
+##MDRTB contact registry  
 
 Registration of a new MDRTB case or a contact in DHIS2  
 
@@ -118,21 +118,77 @@ Please make sure
 An Internet connection is required.
   
   
-DHIS2  
+##Using DHIS2  
 
 Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.uk/  
 
-<img align="left" src="img/dhis2_login1.jpeg">
+<img align="left" src="img/dhis2_login1.jpg">
+  
 Enter your username, password and select ‘login using two-factor authentication’. You will need the
 authenticator application on your phone to provide the two-factor authentication.  
 
 Use your mobile NHS authenticator to generate a login code.
 
-<img align="left" src="img/google_auth.jpeg">
+<img align="left" src="img/google_auth.jpg">
   
 If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
 
 If you are not used to using this, please contact us and we will explain during your training session. 
   
-Sign in
+Sign in  
+  
+Once connected, the dashboard will be visible:  
+  
+<img align="left" src="img/dashboard_1.jpg">
+  
+To log out, click on the profile tab (with your initials) at the top right of the screen.  
+  
+This dashboard displays real-time, aggregated, anonymised data that has been entered. Currently there are two dashboards. One for the index patients and one for the contacts. You can move between them by selecting the tabs at the top. We can add and change them according to our needs. Each user can select what to see on their dashboard and there are a range of graphs available.
+  
+  
+To the left of the profile tab there is a search function called "search applications" highlighted here:
+    
+<img align="left" src="img/dashboard_2.jpg">  
+  
+Select “search applications” and a drop-down menu with applications will appear. 
+  
+Select the tracker capture that looks like a notepad and pencil, this opens the data entry window.  
+  
+The "tracker capture application" will appear on your screen:
 
+<img align="left" src="img/tracker_capture.jpg">     
+
+  
+On the left hand side of the thumbnail section the "organisation" hierarchy will be displayed.  
+    
+This is the list of countries, regions, districts and sub-districts within the application.    
+  
+You should see All countries: England, Wales, Scotland. Select your country and a drop-down menu of counties appears, please choose the local authority in which your index patient lives by following the correct region, county, local area.    
+  
+Once you are in the correct district, the format of the screen changes and you can see two options to choose from in the Lists tab, either TB case surveillance or Contact tracing program.
+
+##Registering participants
+
+Order of steps to follow when first registering participants  
+  
+1.	When registering an index patient and their contacts for the first time, always start with the index.  
+2.	Complete all baseline questions for the index patient before registering the contacts for that index patient.   
+3.	Once you have registered both the index and their contact, you can form a relationship link between the two on the system (described later).  
+
+<img align="left" src="img/registering_participants.jpg">    
+
+To first register their index patient with MDR TB, choose the TB case surveillance option.   
+
+Then click on register to enrol a participant.  
+  
+The following form, called "registration", will open. Please complete all sections for the MDR TB index patient. Two answers are automatically filled in for you. The enrolment district and the patient ID. The patient ID is the participant's study number. 
+
+You will get the participant study number for each index and contact case once you have registered them in the DHIS2 application.   
+
+The participant study number generated will be unique to each participant and is generated using the date, clinic location, and a unique number for each index participant. Please note that the index study number and their contacts’ study numbers will not be numerically linked - linkage will be explained in this document.   
+  
+The index patient section has been developed in line with the current WHO DHIS2 TB case surveillance platform.  
+  
+<img align="left" src="img/tb_case_surv.jpg">  
+
+ 

@@ -137,6 +137,8 @@ If you are not used to using this, please contact us and we will explain during 
   
 Sign in  
   
+  
+  
 Once connected, the dashboard will be visible:  
   
 <img align="left" src="img/dashboard_1.jpeg">
@@ -144,6 +146,8 @@ Once connected, the dashboard will be visible:
 To log out, click on the profile tab (with your initials) at the top right of the screen.  
   
 This dashboard displays real-time, aggregated, anonymised data that has been entered. Currently there are two dashboards. One for the index patients and one for the contacts. You can move between them by selecting the tabs at the top. We can add and change them according to our needs. Each user can select what to see on their dashboard and there are a range of graphs available.
+  
+  
   
   
 To the left of the profile tab there is a search function called "search applications" highlighted here:
@@ -161,6 +165,9 @@ The "tracker capture application" will appear on your screen:
   
 On the left hand side of the thumbnail section the "organisation" hierarchy will be displayed.  
     
+  
+    
+
 This is the list of countries, regions, districts and sub-districts within the application.    
   
 You should see All countries: England, Wales, Scotland. Select your country and a drop-down menu of counties appears, please choose the local authority in which your index patient lives by following the correct region, county, local area.    
@@ -190,5 +197,16 @@ The participant study number generated will be unique to each participant and is
 The index patient section has been developed in line with the current WHO DHIS2 TB case surveillance platform.  
   
 <img align="left" src="img/tb_case_surv.jpeg">  
+  
+  
+  The TB clinic name is the name of the treating health centre.
+  
+  
+The NTBS number is the unique number given to the TB patient by the TB programme.
+    
+    Do not leave any answers blank. If you do, you will not be able to proceed to the next step.  
+     
+    If the index patient’s details are similar to another previously entered case, a blue box will appear warning you about a possible duplication. Please enter all patient details and then check if the possible duplicate is an exact match by clicking on "view candidate".
+
 
  

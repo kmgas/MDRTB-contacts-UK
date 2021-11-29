@@ -122,14 +122,14 @@ An Internet connection is required.
 
 Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.uk/  
 
-<img align="left" src="img/dhis2_login1.jpg">
+<img align="left" src="img/dhis2_login1.jpeg">
   
 Enter your username, password and select ‘login using two-factor authentication’. You will need the
 authenticator application on your phone to provide the two-factor authentication.  
 
 Use your mobile NHS authenticator to generate a login code.
 
-<img align="left" src="img/google_auth.jpg">
+<img align="left" src="img/google_auth.jpeg">
   
 If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
 
@@ -139,7 +139,7 @@ Sign in
   
 Once connected, the dashboard will be visible:  
   
-<img align="left" src="img/dashboard_1.jpg">
+<img align="left" src="img/dashboard_1.jpeg">
   
 To log out, click on the profile tab (with your initials) at the top right of the screen.  
   
@@ -148,7 +148,7 @@ This dashboard displays real-time, aggregated, anonymised data that has been ent
   
 To the left of the profile tab there is a search function called "search applications" highlighted here:
     
-<img align="left" src="img/dashboard_2.jpg">  
+<img align="left" src="img/dashboard_2.jpeg">  
   
 Select “search applications” and a drop-down menu with applications will appear. 
   
@@ -156,7 +156,7 @@ Select the tracker capture that looks like a notepad and pencil, this opens the 
   
 The "tracker capture application" will appear on your screen:
 
-<img align="left" src="img/tracker_capture.jpg">     
+<img align="left" src="img/tracker_capture.jpeg">     
 
   
 On the left hand side of the thumbnail section the "organisation" hierarchy will be displayed.  
@@ -175,7 +175,7 @@ Order of steps to follow when first registering participants
 2.	Complete all baseline questions for the index patient before registering the contacts for that index patient.   
 3.	Once you have registered both the index and their contact, you can form a relationship link between the two on the system (described later).  
 
-<img align="left" src="img/registering_participants.jpg">    
+<img align="left" src="img/registering_participants.jpeg">    
 
 To first register their index patient with MDR TB, choose the TB case surveillance option.   
 
@@ -189,6 +189,6 @@ The participant study number generated will be unique to each participant and is
   
 The index patient section has been developed in line with the current WHO DHIS2 TB case surveillance platform.  
   
-<img align="left" src="img/tb_case_surv.jpg">  
+<img align="left" src="img/tb_case_surv.jpeg">  
 
  

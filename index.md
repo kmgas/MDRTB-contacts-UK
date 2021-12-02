@@ -307,6 +307,7 @@ A box will appear asking if the form is complete. Choose complete and close
 The sections on laboratory data, treatment outcome, and drug sensitivity testing can be completed at a later date. None of these are mandatory.  
 
 <br/><br/>  
+<br/><br/> 
 <br/><br/>  
  
 The following screen will appear with the newly entered patient in the list:  
@@ -324,8 +325,6 @@ Repeat the process of adding forms within the "timeline data entry" by selecting
 This screen will appear.  
 Here you will be able to add lab, treatment, and DST forms  
 
-<br/><br/>  
-
 <img style="float: right;" src="img/add_form_ic.jpeg">  
 
 <br/><br/>  
@@ -334,21 +333,26 @@ Here you will be able to add lab, treatment, and DST forms
     
 You can return to this and add forms later, once results are available  
 
+<br/><br/>  
+<br/><br/>  
+
 ### Contact case registration
 
 Once you have registered an index patient, return to the previous screen by selecting the back button at the top left of the screen.  
 You can now register the first contact for this index.  
 
+<img style="float: centre;" src="img/contact_reg.jpeg">  
+<br/><br/>  
+<br/><br/>  
+
 * Ensure you are in the correct local borough from the list on the left  
 * Select the Contact tracing Programme from the drop-down list as shown here  
 * Select register  
 
-<img style="float: right;" src="img/contact_reg.jpeg">  
-
 Complete this registration form, the form will only save once complete.  
 The contact participant's study ID will auto-generate.  
 
-<img style="float: right;" src="img/contact_enroll.jpeg">  
+<img style="float: centre;" src="img/contact_enroll.jpeg">  
 
 Information that needs to be entered:  
   
@@ -367,7 +371,7 @@ Select save
   
 The contacts home page will open with a timeline for follow up  
   
-<img style="float: right;" src="img/contact_home_page.jpeg">  
+<img style="float: centre;" src="img/contact_home_page.jpeg">  
 
 On the home screen you will see:  
 

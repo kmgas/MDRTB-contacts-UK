@@ -111,7 +111,8 @@ Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.
 <img style="float: left;" src="img/google_auth.jpeg"> 
 
 <br/><br/>  
-
+<br/><br/>  
+<br/><br/>  
 
 Enter your username, password and select ‘login using two-factor authentication’. You will need the
 authenticator application on your phone to provide the two-factor authentication.  
@@ -170,9 +171,13 @@ Order of steps to follow when first registering participants
 1.	When registering an index patient and their contacts for the first time, always start with the index.  
 2.	Complete all baseline questions for the index patient before registering the contacts for that index patient.   
 3.	Once you have registered both the index and their contact, you can form a relationship link between the two on the system (described later).  
+
 <br/><br/>  
 <img style="float: right;" src="img/registering_participants.jpeg">    
+
 <br/><br/>  
+<br/><br/>  
+
 
 To first register their index patient with MDR TB, choose the TB case surveillance option.   
 

@@ -119,10 +119,13 @@ authenticator application on your phone to provide the two-factor authentication
 
 Use your mobile NHS authenticator to generate a login code.  
 
-If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
+- If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
 
-If you are not used to using this, please contact us and we will explain during your training session. 
-  
+- If you are not used to using this, please contact us and we will explain during your training session. 
+
+<br/><br/>  
+<br/><br/>  
+
 Sign in  
 
 Once connected, the dashboard will be visible:  
@@ -190,9 +193,15 @@ You will get the participant study number for each index and contact case once y
 The participant study number generated will be unique to each participant and is generated using the date, clinic location, and a unique number for each index participant. Please note that the index study number and their contacts’ study numbers will not be numerically linked - linkage will be explained in this document.   
   
 The index patient section has been developed in line with the current WHO DHIS2 TB case surveillance platform.  
+
 <br/><br/>  
+<br/><br/>  
+
 <img style="float: right;" src="img/tb_case_surv.jpeg">  
-<br/><br/>    
+
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
   
     The TB clinic name is the name of the treating health centre.
   

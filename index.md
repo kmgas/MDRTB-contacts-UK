@@ -51,19 +51,22 @@ Dave Moore & Kate Gaskell
 To join the study you will need the following
 
 1. Local ethical approval
-  * To do this you need to complete:
-    * The [organisation information document_V1 OID](/HRA_approval_documents/MDRTBcontactsregistry_Organisation_Information_Document.docx) IRAS form. You can find this in the folder named HRA approval documents for each site.  
+  * To do this you need to complete:  
+  
+	The [organisation information document_V1 OID](/HRA_approval_documents/MDRTBcontactsregistry_Organisation_Information_Document.docx) IRAS form. You can find this in the folder named HRA approval documents for each site.  
+   
    To complete this you need signatures from:  
-    * A local PI (a lead TB clinician on site)  
-    * A local point of contact for the LSHTM sponsor  
+   * A local PI (a lead TB clinician on site)  
+   * A local point of contact for the LSHTM sponsor  
 
 If the NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU.  
 If these do not exist this can be a study sponsor, study manager, study coordinator or clinical research scientist.
     
-    * Amend the OID to reference your site only
-    * Amend the [IRAS schedule of events](/HRA_approval_documents/IRAS_scheduleofevents.xls) to ensure it is site specific. 
-    * Complete a delegation log [Delegation Log](/HRA_approval_documents/MDRTB_CONTACTS_REGISTRY_DELEGATION_LOG.docx) (after training has been completed)
-    * Submit all these forms to your local R&D and make sure you copy us in at david.moore@lshtm.ac.uk and kate.gaskell@lshtm.ac.uk
+   *  Amend the OID to reference your site only
+   *  Amend the [IRAS schedule of events](/HRA_approval_documents/IRAS_scheduleofevents.xls) to ensure it is site specific.  
+   *  Complete a delegation log [Delegation Log](/HRA_approval_documents/MDRTB_CONTACTS_REGISTRY_DELEGATION_LOG.docx) (after training has been completed)  
+
+Submit all these forms to your local R&D and make sure you copy us in at david.moore@lshtm.ac.uk and kate.gaskell@lshtm.ac.uk
     
 2. Ensure you have up to date Good Clinical Practice training. There are a few online refresher training courses, of which you can access one [here](https://globalhealthtrainingcentre.tghn.org/elearning/).
 
@@ -83,6 +86,7 @@ We are applying for approval for sites in Wales and Scotland.
 
 ## How to guide <a name="howtoguide"></a>
 
+```  
 
 ### MDRTB contact registry  
 
@@ -94,25 +98,31 @@ Please make sure
 * Each time you close the browser window, you log out instead of closing the page or browser.  
 * Failure to do so is a security risk.
   
-An Internet connection is required.
-  
+An Internet connection is required.  
+```
   
 ### Using DHIS2  
 
 Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.uk/  
 
 
-<img style="float: right;" src="img/dhis2_login1.jpeg">
+![This is an image]<img style="float: right;" src="img/dhis2_login1.jpeg">
 
 
+```  
   
 Enter your username, password and select ‘login using two-factor authentication’. You will need the
 authenticator application on your phone to provide the two-factor authentication.  
 
 Use your mobile NHS authenticator to generate a login code.
+
+```  
+
 </Br>
 <img style="float: right;" src="img/google_auth.jpeg">
 </Br>  
+ 
+```  
 If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
 
 If you are not used to using this, please contact us and we will explain during your training session. 
@@ -122,9 +132,11 @@ Sign in
   
   
 Once connected, the dashboard will be visible:  
+```  
   
 <img style="float: right;" src="img/dashboard_1.jpeg">
   
+```  
 To log out, click on the profile tab (with your initials) at the top right of the screen.  
   
 This dashboard displays real-time, aggregated, anonymised data that has been entered. Currently there are two dashboards. One for the index patients and one for the contacts. You can move between them by selecting the tabs at the top. We can add and change them according to our needs. Each user can select what to see on their dashboard and there are a range of graphs available.
@@ -132,7 +144,8 @@ This dashboard displays real-time, aggregated, anonymised data that has been ent
   
   
   
-To the left of the profile tab there is a search function called "search applications" highlighted here:
+To the left of the profile tab there is a search function called "search applications" highlighted here:  
+```
     
 <img style="float: right;" src="img/dashboard_2.jpeg">  
   

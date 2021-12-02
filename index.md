@@ -199,14 +199,18 @@ The index patient section has been developed in line with the current WHO DHIS2 
 
   
 If the index patient’s details are similar to another previously entered case, a blue box will appear warning you about a possible duplication. Please enter all patient details and then check if the possible duplicate is an exact match by clicking on "view candidate".
+<br/><br/>  
 
 <img style="float: right;" src="img/tb_case_surv2.jpeg">   
+<br/><br/>  
 
     There should be no duplicate MDRTB index patients   
     If there is an exact match, please recheck the patient details 
     
 
 If a patient experiences a 2nd episode of MDRTB this can be recorded as another episode under the same patient  
+
+<br/><br/>  
 
 <img style="float: right;" src="img/tb_case_surv3.jpeg">  
 

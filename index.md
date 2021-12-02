@@ -248,15 +248,23 @@ The following list includes all the data required for the index case and is take
 To enter one of the four forms, select the plus sign on the right-hand side of the timeline data entry section, select the form you want to load into the timeline, then ensure the box in the timeline is selected (turns yellow) so you can answer the questions within this section.   
   
   
-First complete the baseline data entry form. When you select the box, the following screen appears:   
+First complete the baseline data entry form. When you select the box, the following screen appears:    
+  
 
-<img style="float: right;" src="img/timelinedataentry.jpeg">   
+<img style="float: right;" src="img/timelinedataentry.jpeg">     
+  
+  
 
 	Please answer all questions. You will not be able to progress to the next step unless you do so
 
 	Once all sections are complete, select "complete"
 
-	This generates a TB case surveillance report  
+	This generates a TB case surveillance report    
+	
+  
+    
+      
+      
 	
 <img style="float: right;" src="img/tb_case_report.jpeg"> 
 
@@ -276,17 +284,25 @@ Here you will be able to add lab, treatment, and DST forms.
 
 <img style="float: right;" src="img/add_form_ic.jpeg">  
 
-  
+    
+    
   Laboratory forms:
 <img style="float: right;" src="img/lab_form.jpeg">  
-
+  
+  
   Treatment forms:
 <img style="float: right;" src="img/treatment_form.jpeg">   
   
-
+  
+    
+      
+      
 You can return to this and add forms later, once results are available  
 
-
+  
+    
+      
+      
 ### Contact case registration
 
 Once you have registered an index patient, return to the previous screen by selecting the back button at the top left of the screen.  

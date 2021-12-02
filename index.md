@@ -204,7 +204,6 @@ The index patient section has been developed in line with the current WHO DHIS2 
 
 <br/><br/>  
 
-  
     The TB clinic name is the name of the treating health centre.
   
     The NTBS number is the unique number given to the TB patient by the TB programme.
@@ -212,19 +211,16 @@ The index patient section has been developed in line with the current WHO DHIS2 
     Do not leave any answers blank. If you do, you will not be able to proceed to the next step.  
      
 
-
-  
-If the index patient’s details are similar to another previously entered case, a blue box will appear warning you about a possible duplication. Please enter all patient details and then check if the possible duplicate is an exact match by clicking on "view candidate".
+If the index patient’s details are similar to another previously entered case, a blue box will appear warning you about a possible duplication. Please enter all patient details and then check if the possible duplicate is an exact match by clicking on "view candidate".  
 <br/><br/>  
 
 <img style="float: right;" src="img/tb_case_surv2.jpeg">   
+
 <br/><br/>  
 
     There should be no duplicate MDRTB index patients   
     If there is an exact match, please recheck the patient details 
-    
-
-If a patient experiences a 2nd episode of MDRTB this can be recorded as another episode under the same patient  
+    If a patient experiences a 2nd episode of MDRTB this can be recorded as another episode under the same patient  
 
 <br/><br/>  
 
@@ -233,10 +229,18 @@ If a patient experiences a 2nd episode of MDRTB this can be recorded as another 
 
 Once you have completed the registration form correctly for the MDR TB index patient, choose confirm and continue.   
 
-Once you have entered all personal data, confirm it is correct then select confirm and continue.
+Once you have entered all personal data, confirm it is correct then select confirm and continue.  
+
+<br/><br/>  
+<br/><br/>   
+
 When the confirmation button is pressed, the following MDRTB index patient home screen will appear:  
 
-<img style="float: right;" src="img/tb_index_home.jpeg">    
+<br/><br/>  
+<br/><br/>  
+
+<img style="float: right;" src="img/tb_index_home.jpeg">  
+<br/><br/>  
 
 On the home screen you will see:   
   

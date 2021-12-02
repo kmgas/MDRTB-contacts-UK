@@ -199,19 +199,11 @@ The participant study number generated will be unique to each participant and is
   
 The index patient section has been developed in line with the current WHO DHIS2 TB case surveillance platform.  
 
-<br/><br/>  
-<br/><br/>  
 
 <img style="float: centre;" src="img/tb_case_surv.jpeg">  
 
 <br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
+
   
     The TB clinic name is the name of the treating health centre.
   

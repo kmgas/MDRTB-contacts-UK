@@ -142,18 +142,19 @@ We can add and change them according to our needs.
 Each user can select what to see on their dashboard and there are a range of graphs available.
   
 To the left of the profile tab there is a search function called "search applications" highlighted here:  
-
+<br/><br/>  
 <img style="float: right;" src="img/dashboard_2.jpeg">  
-  
+<br/><br/>  
 Select “search applications” and a drop-down menu with applications will appear. 
   
 Select the tracker capture that looks like a notepad and pencil, this opens the data entry window.  
   
 The "tracker capture application" will appear on your screen:
 
+<br/><br/>  
 <img style="float: right;" src="img/tracker_capture.jpeg">     
+<br/><br/>  
 
-  
 On the left hand side of the thumbnail section the "organisation" hierarchy will be displayed.  
 
 This is the list of countries, regions, districts and sub-districts within the application.    
@@ -169,8 +170,9 @@ Order of steps to follow when first registering participants
 1.	When registering an index patient and their contacts for the first time, always start with the index.  
 2.	Complete all baseline questions for the index patient before registering the contacts for that index patient.   
 3.	Once you have registered both the index and their contact, you can form a relationship link between the two on the system (described later).  
-
+<br/><br/>  
 <img style="float: right;" src="img/registering_participants.jpeg">    
+<br/><br/>  
 
 To first register their index patient with MDR TB, choose the TB case surveillance option.   
 
@@ -183,9 +185,9 @@ You will get the participant study number for each index and contact case once y
 The participant study number generated will be unique to each participant and is generated using the date, clinic location, and a unique number for each index participant. Please note that the index study number and their contacts’ study numbers will not be numerically linked - linkage will be explained in this document.   
   
 The index patient section has been developed in line with the current WHO DHIS2 TB case surveillance platform.  
-  
+<br/><br/>  
 <img style="float: right;" src="img/tb_case_surv.jpeg">  
-  
+<br/><br/>    
   
     The TB clinic name is the name of the treating health centre.
   

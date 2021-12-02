@@ -116,6 +116,8 @@ Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.
 
 Enter your username, password and select ‘login using two-factor authentication’.  
 
+<br/><br/>  
+
 - You will need the authenticator application on your phone to provide the two-factor authentication.  
 
 - Use your mobile NHS authenticator to generate a login code.  
@@ -133,8 +135,6 @@ Once connected, the dashboard will be visible:
 <img style="float: right;" src="img/dashboard_1.jpeg">  
 
 <br/><br/>  
-<br/><br/>  
-<br/><br/>  
 
 To log out, click on the profile tab (with your initials) at the top right of the screen.  
   
@@ -145,13 +145,19 @@ You can move between them by selecting the tabs at the top.
 We can add and change them according to our needs. 
 Each user can select what to see on their dashboard and there are a range of graphs available.
   
+<br/><br/>  
+
 To the left of the profile tab there is a search function called "search applications" highlighted here:  
 <br/><br/>  
 <img style="float: right;" src="img/dashboard_2.jpeg">  
+
 <br/><br/>  
+
 Select “search applications” and a drop-down menu with applications will appear. 
   
 Select the tracker capture that looks like a notepad and pencil, this opens the data entry window.  
+  
+<br/><br/>  
   
 The "tracker capture application" will appear on your screen:
 
@@ -196,8 +202,13 @@ The index patient section has been developed in line with the current WHO DHIS2 
 <br/><br/>  
 <br/><br/>  
 
-<img style="float: right;" src="img/tb_case_surv.jpeg">  
+<img style="float: centre;" src="img/tb_case_surv.jpeg">  
 
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
 <br/><br/>  
 <br/><br/>  
 <br/><br/>  

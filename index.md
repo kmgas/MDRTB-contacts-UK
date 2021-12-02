@@ -327,12 +327,11 @@ Here you will be able to add lab, treatment, and DST forms
 
 <img style="float: right;" src="img/add_form_ic.jpeg">  
 
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
+<br/><br/>   
     
 You can return to this and add forms later, once results are available  
 
+<br/><br/>  
 <br/><br/>  
 <br/><br/>  
 
@@ -342,7 +341,7 @@ Once you have registered an index patient, return to the previous screen by sele
 You can now register the first contact for this index.  
 
 <img style="float: centre;" src="img/contact_reg.jpeg">  
-<br/><br/>  
+
 <br/><br/>  
 
 * Ensure you are in the correct local borough from the list on the left  
@@ -385,13 +384,16 @@ On the home screen you will see:
 ### Timeline Data entry  
 
 Within the timeline data entry, you should see the data capture forms for each time point Month 0 (M0), Month 3 (M3), Month 6 (M6), Month 12 (M12), Month 18 (M18) , and Month 24 (M24).   
-  
+
 If you cannot see them, they need to be added.   
 To add a data capture form, select the + button to the right of the timeline data entry box.   
 Select “Add New” 
 First select screening visit M0  
 To add additional timepoint reviews you can select the “additional review” form.  
-  
+
+<br/><br/>  
+<br/><br/>  
+
 <img style="float: right;" src="img/visits.jpeg">   
 
 A screen opens allowing you to set the "assessment date" and the "organisational unit" (meaning the district in which the participant lives).  
@@ -399,8 +401,7 @@ Select next.
 You will need to do this for each data entry form you add.  
 
 ### Baseline visit M0  
- 
-   
+
 Information to be entered:  
 
 ●	Are there any known risk factors?   
@@ -409,11 +410,17 @@ Information to be entered:
 ●	Duration of exposure (to a symptomatic index) in weeks  
 ●	MDRTB treatment initiation date of the index  
 
-<img style="float: right;" src="img/M0.jpeg">  
+<img style="float: centre;" src="img/M0.jpeg">  
+
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
 
 Select all radio buttons relevant for the current contact  
 
-<img style="float: right;" src="img/M0_data.jpeg"> 
+<img style="float: centre;" src="img/M0_data.jpeg">  
+
 
 	Enter the number of weeks of exposure to a symptomatic index   
 	

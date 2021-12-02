@@ -119,10 +119,12 @@ Use your mobile NHS authenticator to generate a login code.
 
 <br/><br/>  
 
-<img style="float: right;" src="img/google_auth.jpeg">  
+<img style="float: left;" src="img/google_auth.jpeg">  
+
+<img style="float: right;" src="img/dashboard_1.jpeg">  
 
 <br/><br/>  
-  
+
 If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
 
 If you are not used to using this, please contact us and we will explain during your training session. 
@@ -130,12 +132,6 @@ If you are not used to using this, please contact us and we will explain during 
 Sign in  
 
 Once connected, the dashboard will be visible:  
-
-<br/><br/>  
-
-<img style="float: right;" src="img/dashboard_1.jpeg">  
-
-<br/><br/>  
 
 To log out, click on the profile tab (with your initials) at the top right of the screen.  
   

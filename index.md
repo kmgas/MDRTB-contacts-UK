@@ -106,49 +106,35 @@ An Internet connection is required.
 Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.uk/  
 
 <br/><br/>  
-<br/><br/>
-<br/><br/> 
 
 <img style="float: right;" src="img/dhis2_login1.jpeg">  
 
 <br/><br/>  
-<br/><br/>
-<br/><br/>
- 
+
+
 Enter your username, password and select ‘login using two-factor authentication’. You will need the
 authenticator application on your phone to provide the two-factor authentication.  
 
 Use your mobile NHS authenticator to generate a login code.  
 
 <br/><br/>  
-<br/><br/>
-<br/><br/>  
 
 <img style="float: right;" src="img/google_auth.jpeg">  
 
 <br/><br/>  
-<br/><br/>
-<br/><br/>  
- 
   
 If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
 
 If you are not used to using this, please contact us and we will explain during your training session. 
   
 Sign in  
-  
-  
-  
+
 Once connected, the dashboard will be visible:  
 
 <br/><br/>  
-<br/><br/>
-<br/><br/>
 
 <img style="float: right;" src="img/dashboard_1.jpeg">  
 
-<br/><br/>  
-<br/><br/>
 <br/><br/>  
 
 To log out, click on the profile tab (with your initials) at the top right of the screen.  

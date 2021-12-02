@@ -214,7 +214,7 @@ The index patient section has been developed in line with the current WHO DHIS2 
 If the index patient’s details are similar to another previously entered case, a blue box will appear warning you about a possible duplication. Please enter all patient details and then check if the possible duplicate is an exact match by clicking on "view candidate".  
 <br/><br/>  
 
-<img style="float: right;" src="img/tb_case_surv2.jpeg">   
+<img style="float: centre;" src="img/tb_case_surv2.jpeg">   
 
 <br/><br/>  
 
@@ -249,7 +249,9 @@ On the home screen you will see:
 * their profile   
 * their relationships with other participants  
 * the indicators their data will populate for display on dashboards   
-* their data entry forms in a timeline
+* their data entry forms in a timeline  
+
+<br/><br/>  
 
 ### Index case data   
 

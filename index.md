@@ -233,14 +233,14 @@ Once you have entered all personal data, confirm it is correct then select confi
 
 <br/><br/>  
 <br/><br/>   
+<br/><br/>  
 
 When the confirmation button is pressed, the following MDRTB index patient home screen will appear:  
 
 <br/><br/>  
 <br/><br/>  
 
-<img style="float: right;" src="img/tb_index_home.jpeg">  
-<br/><br/>  
+<img style="float: right;" src="img/tb_index_home.jpeg">   
 
 On the home screen you will see:   
   
@@ -290,52 +290,64 @@ To enter one of the four forms, select the plus sign on the right-hand side of t
 First complete the baseline data entry form. When you select the box, the following screen appears:    
   
 
-<img style="float: right;" src="img/timelinedataentry.jpeg">     
-  
-  
+<img style="float: centre;" src="img/timelinedataentry.jpeg">     
+
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+
 
 	Please answer all questions. You will not be able to progress to the next step unless you do so
 
 	Once all sections are complete, select "complete"
 
 	This generates a TB case surveillance report    
-	
-  
-    
-      
-      
-	
+
+<br/><br/>  
+
 <img style="float: right;" src="img/tb_case_report.jpeg"> 
 
 A box will appear asking if the form is complete. Choose complete and close  
  
 The sections on laboratory data, treatment outcome, and drug sensitivity testing can be completed at a later date. None of these are mandatory.  
-
   
 The following screen will appear with the newly entered patient in the list:  
+<br/><br/>  
+<br/><br/>  
 
 <img style="float: right;" src="img/ic_list.jpeg">  
+  
+<br/><br/>  
+<br/><br/>  
+
 
 To add the remaining forms (Laboratory forms, treatment and DST) to this index select your patient.  
-Repeat the process of adding forms within the "timeline data entry" by selecting the plus sign "+".
-This screen will appear. 
-Here you will be able to add lab, treatment, and DST forms.  
+Repeat the process of adding forms within the "timeline data entry" by selecting the plus sign "+".  
+
+This screen will appear.  
+Here you will be able to add lab, treatment, and DST forms  
+
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
 
 <img style="float: right;" src="img/add_form_ic.jpeg">  
 
-    
-    
-  Laboratory forms:
+
+#### Laboratory forms:
 <img style="float: right;" src="img/lab_form.jpeg">  
   
-  
-  Treatment forms:
+<br/><br/>  
+<br/><br/>  
+
+#### Treatment forms:
 <img style="float: right;" src="img/treatment_form.jpeg">   
-  
-  
+
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
     
-      
-      
 You can return to this and add forms later, once results are available  
 
   

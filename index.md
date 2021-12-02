@@ -77,30 +77,7 @@ The LSHTM privacy notice which you can access [here](https://www.lshtm.ac.uk/fil
 We have HRA approval for all MDR TB commissioned centres in England who have shown interest in participating.   
 We are applying for approval for sites in Wales and Scotland.
 
-   
-## Sites involved in this study <a name="sitesinvolved"></a>  
 
-* Barts Health NHS Trust
-* Bradford Teaching Hospitals NHS FT
-* Cambridge University Hospitals NHS FT
-* Central Manchester University and North Manchester Hospitals NHS Trusts
-* Heart of England FT, East Lancashire Hospitals NHS FT 
-* Guy's and St Thomas NHS FT 
-* Hull and East Yorkshire Hospitals NHS Trust
-* Imperial College Healthcare NHS Trust
-* Leeds Teaching Hospitals NHS Trust
-* Lewisham and Greenwich NHS Trust
-* London Northwest Healthcare
-* North Bristol NHS Trust
-* Nottingham University Hospitals NHS Trust
-* Oxford University Hospitals NHS Trust
-* Royal Free London NHS Foundation Trust
-* Royal Liverpool and Broadgreen University Hospitals NHS Trust
-* Sandwell and West Birmingham NHS Trust
-* Sheffield Teaching Hospitals NHS Foundation Trust
-* St George's Hospital London
-* The Newcastle upon Tyne Hospitals NHS FT
-* Whittington Health North Central London TB service London
 
 ## How to guide <a name="howtoguide"></a>
 
@@ -122,7 +99,7 @@ An Internet connection is required.
 
 Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.uk/  
 
-</Br>
+
 <img style="float: right;" src="img/dhis2_login1.jpeg">
 
 
@@ -310,7 +287,7 @@ Here you will be able to add lab, treatment, and DST forms.
 You can return to this and add forms later, once results are available  
 
 
-###Contact case registration
+### Contact case registration
 
 Once you have registered an index patient, return to the previous screen by selecting the back button at the top left of the screen.  
 You can now register the first contact for this index.  
@@ -354,7 +331,7 @@ On the home screen you will see:
 ●	their data entry forms in a timeline  
 
   
-  ###Timeline Data entry  
+### Timeline Data entry  
 
 Within the timeline data entry, you should see the data capture forms for each time point Month 0 (M0), Month 3 (M3), Month 6 (M6), Month 12 (M12), Month 18 (M18) , and Month 24 (M24).   
   
@@ -370,7 +347,7 @@ A screen opens allowing you to set the "assessment date" and the "organisational
 Select next.  
 You will need to do this for each data entry form you add.  
 
- ###Baseline visit M0  
+### Baseline visit M0  
  
    
 Information to be entered:  
@@ -397,14 +374,14 @@ When the form is complete, select complete.
 
 Add forms M3, M6, M12, M18 and M24 to the contact's dashboard. The dates on these forms are automatically filled in, but you can change them to a date you agree with the contact. You can add additional review forms for reviews at other time points, for example a remote review in paediatrics at 9 months.  
 
-  ###Follow up visits  
+### Follow up visits  
   
 When you review this contact at the next visit, make sure to return to the same contact to enter the next data capture form (M3, M6 etc). To do this you can find a list of contact participant IDs under the borough within the Contact tracing program. Ensure you know which participant ID is linked to each contact.  
   
 Once you have entered the index case and the contact case it is important to link them by entering a “relationship”.  
   
 
-  ###Adding a relationship  
+### Adding a relationship  
 
 <img style="float: right;" src="img/relationship.jpeg">
 <img style="float: left;" src="img/relationship_add.jpeg">  
@@ -434,9 +411,105 @@ Before leaving the contact, make sure you know the date of your next M3 or M6 fo
 
  
 
+## New page MDRTB contacts registry – follow-up schedule  
+  
+    
+  
+### Recording of investigations and interventions by visit SOP  
+
+The purpose of the MDRTB contacts registry project is to facilitate capture and follow-up of 
+MDR-TB exposed household contacts by clinics. As such the DHIS2 online tool permits
+completion of entries at multiple timepoints but does not force any visit frequency.
+Similarly, although the table below describes an approach arrived at after a local Delphi
+process in north London following a review of the literature, the investigations and
+interventions conducted at each timepoint are not proscribed. Rather the DHIS-2 tool
+provides a mechanism for recording and reviewing your clinic practice against your intended
+local practice.  
+
+Summary of guidance from national and international agencies  
+
+1. Follow-up  
+
+a. Regardless of decisions around preventive therapy there is a coalescence around a recommendation for 24 months of follow-up, at least six-monthly, following a baseline screen  
+
+b. Recommendations for baseline screening generally include clinical review, chest radiography, testing for LTBI, and microbiological sampling if clinically indicated (if contact is symptomatic)  
+
+c. There is no consistent recommendation on the nature of follow-up (symptom screen, clinical examination, chest radiography, sampling)  
+
+2. Preventive therapy  
+
+a. Guidelines that make recommendations for PT only do so for contacts with demonstrated LTBI (positive IGRA or TST) and no evidence of active TB disease  
+
+b. Decisions about PT should be made on a case-by-case basis  
+
+c. WHO recommends PT be considered for high-risk household contacts (children and immunosuppressed adults) based on risk assessment and clinical judgement  
+
+d. Fluoroquinolones are considered an important component of any PT regimen  
+
+e. There is no single recommended PT regimen; most studies report the use of 2-3 agents for 6-12 months  
+
+  
+A draft strategy for MDRTB contact management, drawing upon these principles, was circulated amongst adult and paediatric TB physicians, and iterated according to feedback discussions. The tables below outline the consensus view on frequency and nature of review for adults and children exposed to MDRTB within the household, whether the index case has pulmonary or extrapulmonary disease. The same approaches might also be considered suitable for close contact exposure with pulmonary MDRTB outside the household.  
 
 
-	
+<img style="float: left;" src="img/Screening_interventions.jpeg">   	  
+  
+    
+      
+        
+          
+1 “Review” encompasses history taking to detect early active TB disease – when F2F this can also include clinical examination. Remote review will usually be a telephone consultation. Sampling for microbiological testing to be driven by symptoms.  
+2 2-3 month visit after baseline assessment for repeat TST and IGRA, only if initial TST is negative  
+3 BCG to be given after 2-3 month visit if initial TST and repeat TST and IGRA all negative  
+4 same follow-up for immunocompetent and immunosuppressed  
+5 repeat IGRA performed at 2-3 months only if baseline negative (to capture late converters)  
+
+
+
+## Obtaining Consent MDRTB  
+
+Standard Operating Procedure for obtaining informed consent  
+
+There are two categories of participant – the index case and the household contact (HHC).  
+
+1. Approach the eligible index case participant  
+a. in person during a clinic or household visit  
+  
+  
+2. Approach the eligible HHC participant either  
+a. in person during a clinic or household visit (with index case), or  
+b. by telephone (with the prior permission of the index patient)  
+  
+  
+3. Provide information about the registry project by  
+a. verbal explanation, and  
+b. supplying the participant information sheet (PIS) in hard and/or soft copy, and  
+c. consider sharing the github site link https://github.com/kmgas/MDRTB-contacts-UK
+with participants who wish to see all project-related documents  
+
+It is important to ensure that the participant is able to understand the information given.  
+  
+  
+4. Invite participation and obtain written informed consent through signing of two copies
+of the project consent form. One copy should be given to the participant (with a PIS) and
+the other should be filed in the site project folder.  
+  
+  
+5. Complete the DHIS2 record for the participant only once consent has been obtained  
+
+Definitions  
+  
+Index case patients may have pulmonary or extra-pulmonary TB and may have multidrugresistant
+TB (resistant to rifampicin and isoniazid) or rifampicin mono-resistant or isoniazid
+mono-resistant TB.  
+
+Eligible participants  
+
+Index case patients and their household contacts (HHCs) are eligible to participate HHC  
+The registry captures detail on time and duration of exposure to the index case for HHCs, so
+the sole criteria for eligibility for inclusion in the Registry as a HHC is:  
+the person (adult or child) should have lived in the same household as the index patient at
+the time of MDR-TB diagnosis or at any time in the preceding two months.
 
 
 

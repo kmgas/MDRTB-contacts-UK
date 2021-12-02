@@ -114,17 +114,15 @@ Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.
 <br/><br/>  
 <br/><br/>  
 
-Enter your username, password and select ‘login using two-factor authentication’. You will need the
-authenticator application on your phone to provide the two-factor authentication.  
+Enter your username, password and select ‘login using two-factor authentication’.  
 
-Use your mobile NHS authenticator to generate a login code.  
+- You will need the authenticator application on your phone to provide the two-factor authentication.  
+
+- Use your mobile NHS authenticator to generate a login code.  
 
 - If you do not have this installed on your phone download it for free via the iPhone App store or Google Play store. 
 
-- If you are not used to using this, please contact us and we will explain during your training session. 
-
-<br/><br/>  
-<br/><br/>  
+- If you are not used to using this, please contact us and we will explain during your training session.  
 
 Sign in  
 
@@ -134,6 +132,8 @@ Once connected, the dashboard will be visible:
 
 <img style="float: right;" src="img/dashboard_1.jpeg">  
 
+<br/><br/>  
+<br/><br/>  
 <br/><br/>  
 
 To log out, click on the profile tab (with your initials) at the top right of the screen.  
@@ -175,12 +175,11 @@ Order of steps to follow when first registering participants
 2.	Complete all baseline questions for the index patient before registering the contacts for that index patient.   
 3.	Once you have registered both the index and their contact, you can form a relationship link between the two on the system (described later).  
 
-<br/><br/>  
+ 
 <img style="float: right;" src="img/registering_participants.jpeg">    
 
 <br/><br/>  
 <br/><br/>  
-
 
 To first register their index patient with MDR TB, choose the TB case surveillance option.   
 

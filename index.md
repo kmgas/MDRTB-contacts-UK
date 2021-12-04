@@ -252,7 +252,7 @@ On the home screen you will see
 <br/><br/>  
 
 
-### Index case data   
+### Index case registration  
 
 For initial registration there are four forms to complete for each index:  
 
@@ -334,6 +334,7 @@ You can return to this and add forms later, once results are available
 <br/><br/>  
 <br/><br/>  
 <br/><br/>  
+<br/><br/>  
 
 ### Contact case registration
 
@@ -391,10 +392,9 @@ Select “Add New”
 First select screening visit M0  
 To add additional timepoint reviews you can select the “additional review” form.  
 
-<br/><br/>  
-<br/><br/>  
+<img style="float: centre;" src="img/visits.jpeg">   
 
-<img style="float: right;" src="img/visits.jpeg">   
+<br/><br/>  
 
 A screen opens allowing you to set the "assessment date" and the "organisational unit" (meaning the district in which the participant lives).  
 Select next.  
@@ -411,12 +411,7 @@ Information to be entered:
 ●	MDRTB treatment initiation date of the index  
 
 <img style="float: centre;" src="img/M0.jpeg">  
-
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-
+34333333
 Select all radio buttons relevant for the current contact  
 
 <img style="float: centre;" src="img/M0_data.jpeg">  

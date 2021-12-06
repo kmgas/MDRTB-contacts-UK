@@ -455,14 +455,9 @@ Within the relationship box select the "add" button. A window will open showing 
 	From the drop-down menu, select the contact index case   
 	A new window will open with your contact and the list of index patients already entered in the system  
 	
-<img style="float: right;" src="img/relationship_add3.jpeg">   
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
-<br/><br/>  
+<img style="float: centre;" src="img/relationship_add3.jpeg">   
 
+<br/><br/>  
  
  	Here you can see the details of your contact participant on the left of the screen  
  	On the right you can search for index TB patients using demographic data  

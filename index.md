@@ -84,7 +84,7 @@ We are applying for approval for sites in Wales and Scotland.
 
 
 
-## How to guide <a name="howtoguide"></a>
+## NEW PAGE How to guide <a name="howtoguide"></a>
 
 
 
@@ -461,6 +461,7 @@ Within the relationship box select the "add" button. A window will open showing 
 <br/><br/>  
 <br/><br/>  
 <br/><br/>  
+<br/><br/>  
 
  
  	Here you can see the details of your contact participant on the left of the screen  
@@ -482,7 +483,7 @@ Before leaving the contact, make sure you know the date of your next M3 or M6 fo
 
  
 
-## New page MDRTB contacts registry – follow-up schedule  
+## NEW PAGE MDRTB contacts registry – follow-up schedule  
   
     
   
@@ -536,7 +537,7 @@ A draft strategy for MDRTB contact management, drawing upon these principles, wa
 
 
 
-## Obtaining Consent MDRTB  
+## NEW PAGE Obtaining Consent MDRTB  
 
 Standard Operating Procedure for obtaining informed consent  
 

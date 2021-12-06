@@ -448,6 +448,7 @@ Within the relationship box select the "add" button. A window will open showing 
 <br/><br/>   
 
 <img style="float: right;" src="img/relationship_add2.jpeg">  
+
 <br/><br/>  
 <br/><br/>  
 <br/><br/>  

@@ -18,7 +18,7 @@
 [MDR TB contacts registry](https://mdrtb-contacts.lshtm.ac.uk/)  
 [Protocol](/protocol/MDRTBcontactsRegistry_Protocol.pdf)   
 [Ethics Approvals](/ethics)  
-[Setup instructions](/howto.md). 
+[Setup instructions](/howto.md)   
 [Consent Process](/consent.md)  
 [Consent Forms](/consent)  
 [Follow-up schedules](/followup.md)  

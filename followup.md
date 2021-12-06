@@ -14,6 +14,15 @@
 [Sites involved in this study](#sitesinvolved)  
 [How to guide](#howtoguide)
  
+## Links <a name="links"></a>
+[MDR TB contacts registry](https://mdrtb-contacts.lshtm.ac.uk/)  
+[Protocol](/protocol/MDRTBcontactsRegistry_Protocol.pdf)   
+[Ethics Approvals](/ethics)  
+[Setup instructions](/howto.md)
+[Consent Forms](/consent.md)  
+[Follow-up schedules](/followup.md)  
+[Data Protection Impact Assessment](//DPIA/dpia.pdf)  
+[HRA Approvals](/HRA_approval_documents)  
 
 ## MDRTB contacts registry – follow-up schedule  
   

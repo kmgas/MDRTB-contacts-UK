@@ -19,7 +19,8 @@
 [Protocol](/protocol/MDRTBcontactsRegistry_Protocol.pdf)   
 [Ethics Approvals](/ethics)  
 [Setup instructions](/howto.md). 
-[Consent Forms](/consent.md)  
+[Consent Process](/consent.md)  
+[Consent Forms](/consent)  
 [Follow-up schedules](/followup.md)  
 [Data Protection Impact Assessment](//DPIA/dpia.pdf)  
 [HRA Approvals](/HRA_approval_documents)  

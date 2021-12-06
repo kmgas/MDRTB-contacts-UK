@@ -59,7 +59,7 @@ To join the study you will need the following
    * A local PI (a lead TB clinician on site)  
    * A local point of contact for the LSHTM sponsor  
 
-If the NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU.  
+For the local point of contact, if your NHS site has a Research and Development Office (R&D), Contract Research Organisation (CRO) or Clinical Trials Unit (CTU) it should be a contact at the R&D/CRO/CTU.  
 If these do not exist this can be a study sponsor, study manager, study coordinator or clinical research scientist.
     
    *  Amend the OID to reference your site only

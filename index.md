@@ -323,13 +323,14 @@ The following screen will appear with the newly entered patient in the list:
 To add the remaining forms (Laboratory forms, treatment and DST) to this index select your patient.  
 Repeat the process of adding forms within the "timeline data entry" by selecting the plus sign "+".  
 
+<br/><br/>  
+
 This screen will appear.  
-Here you will be able to add lab, treatment, and DST forms  
 
 <img style="float: right;" src="img/add_form_ic.jpeg">  
-
-<br/><br/>   
-    
+  
+Here you will be able to add lab, treatment, and DST forms  
+<br/><br/>      
 You can return to this and add forms later, once results are available  
 
 <br/><br/>  

@@ -117,6 +117,8 @@ Enter the web address into the search navigator https://mdrtb-contacts.lshtm.ac.
 Enter your username, password and select ‘login using two-factor authentication’.  
 
 <br/><br/>  
+<br/><br/>  
+
 
 - You will need the authenticator application on your phone to provide the two-factor authentication.  
 
@@ -132,9 +134,7 @@ Once connected, the dashboard will be visible:
   
 <br/><br/>   
 
-<img style="float: right;" src="img/dashboard_1.jpeg">  
-
-<br/><br/>  
+<img style="float: right;" src="img/dashboard_1.jpeg">   
 
 To log out, click on the profile tab (with your initials) at the top right of the screen.  
   
@@ -151,7 +151,6 @@ To the left of the profile tab there is a search function called "search applica
 <br/><br/>  
 <img style="float: right;" src="img/dashboard_2.jpeg">  
 
-<br/><br/>  
 
 Select “search applications” and a drop-down menu with applications will appear. 
   
@@ -186,6 +185,8 @@ Order of steps to follow when first registering participants
 
 <br/><br/>  
 <br/><br/>  
+<br/><br/>   
+
 
 To first register their index patient with MDR TB, choose the TB case surveillance option.   
 
@@ -411,7 +412,7 @@ Information to be entered:
 ●	MDRTB treatment initiation date of the index  
 
 <img style="float: centre;" src="img/M0.jpeg">  
-34333333
+
 Select all radio buttons relevant for the current contact  
 
 <img style="float: centre;" src="img/M0_data.jpeg">  
@@ -439,19 +440,33 @@ Once you have entered the index case and the contact case it is important to lin
 <img style="float: right;" src="img/relationship.jpeg">
 <img style="float: left;" src="img/relationship_add.jpeg">  
 
-Within the relationship box select the "add" button. A window will open showing a box asking you to add a relationship.   
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+
+Within the relationship box select the "add" button. A window will open showing a box asking you to add a relationship.  
+<br/><br/>   
+
 <img style="float: right;" src="img/relationship_add2.jpeg">  
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
 
 	From the drop-down menu, select the contact index case   
 	A new window will open with your contact and the list of index patients already entered in the system  
 	
 <img style="float: right;" src="img/relationship_add3.jpeg">   
-
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+<br/><br/>  
+ 
  	Here you can see the details of your contact participant on the left of the screen  
  	On the right you can search for index TB patients using demographic data  
  	Select the index MDRTB patient of your contact participant   
  	
- The following screen will appear. Select "save" if you are happy that this is the correct index patient.  
+ The following screen will appear. Select "save" if you are happy that this is the correct index patient.
+<br/><br/>   
  
  <img style="float: right;" src="img/relationship_add4.jpeg">  
 

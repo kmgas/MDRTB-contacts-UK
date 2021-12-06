@@ -467,7 +467,8 @@ Within the relationship box select the "add" button. A window will open showing 
  The following screen will appear. Select "save" if you are happy that this is the correct index patient.
 <br/><br/>   
  
- <img style="float: right;" src="img/relationship_add4.jpeg">  
+ <img style="float: centre;" src="img/relationship_add4.jpeg">  
+
 
 You should now see a link within the relationship box on the main page of your contacts.  
 

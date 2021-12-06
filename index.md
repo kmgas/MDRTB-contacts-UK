@@ -451,8 +451,6 @@ Within the relationship box select the "add" button. A window will open showing 
 <img style="float: right;" src="img/relationship_add2.jpeg">  
 
 <br/><br/>  
-<br/><br/>  
-<br/><br/>  
 
 	From the drop-down menu, select the contact index case   
 	A new window will open with your contact and the list of index patients already entered in the system  
@@ -462,11 +460,14 @@ Within the relationship box select the "add" button. A window will open showing 
 <br/><br/>  
 <br/><br/>  
 <br/><br/>  
+<br/><br/>  
+
  
  	Here you can see the details of your contact participant on the left of the screen  
  	On the right you can search for index TB patients using demographic data  
  	Select the index MDRTB patient of your contact participant   
- 	
+ 
+<br/><br/>  
  The following screen will appear. Select "save" if you are happy that this is the correct index patient.
 <br/><br/>   
  
@@ -522,9 +523,8 @@ e. There is no single recommended PT regimen; most studies report the use of 2-3
 A draft strategy for MDRTB contact management, drawing upon these principles, was circulated amongst adult and paediatric TB physicians, and iterated according to feedback discussions. The tables below outline the consensus view on frequency and nature of review for adults and children exposed to MDRTB within the household, whether the index case has pulmonary or extrapulmonary disease. The same approaches might also be considered suitable for close contact exposure with pulmonary MDRTB outside the household.  
 
 
-<img style="float: left;" src="img/Screening_interventions.jpeg">   	  
-  
-    
+<img style="float: centre;" src="img/screening_interventions.jpeg">  
+
       
         
           

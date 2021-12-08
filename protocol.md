@@ -11,7 +11,7 @@
 [Introduction](#intro)   
 [Getting Started](#getstarted)  
 [Data Protection](#dataprotection)  
-[Sites involved in this study](#sitesinvolved)  
+ 
 
 ## Links <a name="links"></a>
 [Homepage](/index.md)   

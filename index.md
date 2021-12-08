@@ -20,7 +20,7 @@
 [Ethics Approvals](/ethics)  
 [Setup instructions](/howto.md)   
 [Consent Process](/consent.md)  
-[Consent Forms](/consent)  
+[Consent Forms](/consentforms.md)  
 [Follow-up schedules](/followup.md)  
 [Data Protection Impact Assessment](//DPIA/dpia.pdf)  
 [HRA Approvals](/HRA_approval_documents)  

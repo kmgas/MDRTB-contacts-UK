@@ -5,12 +5,7 @@
 <br/><br/>
 <br/><br/>
 
-
-## Contents 
-[Links](#links)  
-[Introduction](#intro)   
-[Getting Started](#getstarted)  
-[Data Protection](#dataprotection)  
+ 
 
 ## Links <a name="links"></a>
 [Homepage](/index.md)   

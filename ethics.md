@@ -26,7 +26,7 @@
 
 ## Ethics Approvals
 
-[REC approval](https://github.com/kmgas/MDRTB-contacts-UK/blob/gh-pages/ethics/REC_Favourable_opinion_16.LO.2032pdf.pdf)  
-[IRAS amendment approval](https://github.com/kmgas/MDRTB-contacts-UK/blob/gh-pages/ethics/IRAS_214570_amendment_approval2020601.pdf)  
-[London School of Hygiene and Tropical Medicine ethical approval](https://github.com/kmgas/MDRTB-contacts-UK/blob/gh-pages/ethics/LEO_Favourable_opinion_MDSRTB_contact_registry_copy.pdf)  
-[LSHTM amendment approval](https://github.com/kmgas/MDRTB-contacts-UK/blob/gh-pages/ethics/LEO_MDRTB_registry_amendment_approval-39246%20copy.pdf)  
+[REC approval](/ethics/REC_Favourable_opinion_16.LO.2032pdf.pdf)  
+[IRAS amendment approval](/ethics/IRAS_214570_amendment_approval2020601.pdf)  
+[London School of Hygiene and Tropical Medicine ethical approval](/ethics/LEO_Favourable_opinion_MDSRTB_contact_registry_copy.pdf)  
+[LSHTM amendment approval](/ethics/LEO_MDRTB_registry_amendment_approval-39246%20copy.pdf)  

@@ -26,9 +26,9 @@
 
 ## Consent Forms
 
-[0-10 parental consent form](/consent%20and%20PIS/0-10%20parental%20Consent%20MDRTBcontactsRegistry.pdf)  
-[Assent form](/consent%20and%20PIS/Assent%20Form%20MDRTBcontactsRegistry.pdf)  
-[Assent information sheet](/consent%20and%20PIS/Assent%20Information%20sheet%20MDRTBcontactsRegistry.pdf)  
-[Consent form](/consent%20and%20PIS/Consent%20MDRTBcontactsRegistry.pdf)  
-[Patient information sheet](/consent%20and%20PIS/PIS%20MDRTBcontactsRegistry.pdf)  
+[0-10 parental consent form](/consentandPIS/0-10_parental_Consent_MDRTBcontactsRegistry.pdf)  
+[Assent form](/consentandPIS/Assent_Form_MDRTBcontactsRegistry.pdf)  
+[Assent information sheet](/consentandPIS/Assent_Information_sheet_MDRTBcontactsRegistry.pdf)  
+[Consent form](/consentandPIS/Consent_MDRTBcontactsRegistry.pdf)  
+[Patient information sheet](/consentandPIS/PIS_MDRTBcontactsRegistry.pdf)  
 
